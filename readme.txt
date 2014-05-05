@@ -26,21 +26,21 @@ Converting anonymous visitors by leveraging textual analysis and behavioral anal
 
 = Key Benefits =
 
-* Keep visitors engaged with relevant content offers 
-* Increase leads and conversion rate
-* Move visitors faster through the buyer journey by increasing content consumption
-* Reduced bounce rate
+*   Keep visitors engaged with relevant content offers 
+*   Increase leads and conversion rate
+*   Move visitors faster through the buyer journey by increasing content consumption
+*   Reduced bounce rate
 
 = Key features =
 
-* Fully automated solution (manual controls available)
-* Easy to customize layout, colors, fonts to match your website
-* Unique analytics
-* Free 30 days trial
-* Free for small businesses
+*   Fully automated solution (manual controls available)
+*   Easy to customize layout, colors, fonts to match your website
+*   Unique analytics
+*   Free 30 days trial
+*   Free for small businesses
 
 Languages supported:
-* The plugin supports English language sites 
+*   The plugin supports English language sites 
 
 == Installation ==
 
