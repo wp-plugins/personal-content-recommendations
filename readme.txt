@@ -10,14 +10,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 BrightInfo's content recommendations solution is up and running within minutes and is proven to increase leads and blog/newsletter signups by dozens of %.
 
-Converting anonymous visitors by leveraging textual analysis and behavioral analysis of individual visitor behavior BrightInfo offers your blog visitors and website visitors personal content recommendations from your marketing content or blog posts.
-
-Key Benefits
-- Keep visitors engaged with relevant content offers 
-- Increase leads and conversion rate
-- Move visitors faster through the buyer journey by increasing content consumption
-- Reduced bounce rate
-
 == Description ==
 
 BrightInfo's content recommendations solution is up and running within minutes and is proven to increase leads and blog/newsletter signups by dozens of %.
