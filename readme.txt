@@ -10,35 +10,29 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 BrightInfo's content recommendations solution is up and running within minutes and is proven to increase leads and blog/newsletter signups by dozens of %.
 
-Converting anonymous visitors by leveraging textual analysis and behavioral analysis of individual visitor behavior BrightInfo offers your blog visitors and website visitors personal content recommendations from your marketing content or blog posts.
-
-Key Benefits
-- Keep visitors engaged with relevant content offers 
-- Increase leads and conversion rate
-- Move visitors faster through the buyer journey by increasing content consumption
-- Reduced bounce rate
-
 == Description ==
 
 BrightInfo's content recommendations solution is up and running within minutes and is proven to increase leads and blog/newsletter signups by dozens of %.
 
 Converting anonymous visitors by leveraging textual analysis and behavioral analysis of individual visitor behavior BrightInfo offers your blog visitors and website visitors personal content recommendations from your marketing content or blog posts.
 
-Key Benefits
-* Keep visitors engaged with relevant content offers 
-* Increase leads and conversion rate
-* Move visitors faster through the buyer journey by increasing content consumption
-* Reduced bounce rate
+= Key Benefits =
 
-Key features:
-* Fully automated solution (manual controls available)
-* Easy to customize layout, colors, fonts to match your website
-* Unique analytics
-* Free 30 days trial
-* Free for small businesses
+*   Keep visitors engaged with relevant content offers 
+*   Increase leads and conversion rate
+*   Move visitors faster through the buyer journey by increasing content consumption
+*   Reduced bounce rate
+
+= Key features =
+
+*   Fully automated solution (manual controls available)
+*   Easy to customize layout, colors, fonts to match your website
+*   Unique analytics
+*   Free 30 days trial
+*   Free for small businesses
 
 Languages supported:
-* The plugin supports English language sites 
+*   The plugin supports English language sites 
 
 == Installation ==
 
