@@ -41,7 +41,7 @@ Converting anonymous visitors by leveraging textual analysis and behavioral anal
 2. In your WordPress admin dashboard, go to "Upload New Plugin" page
 3. Browse for the zip file from Step 1, and click on "Install Now"
 4. Wait for the installation to complete, and activate the plugin
-5. Register for the BrightInfo service 
+5. Register to the Brightinfo service using the plugin
 6. Allow up to 24 hours to process your website and show recommended content 
 7. See recommended content (once ready) by adding "?testModeKey=1234" to your URL once
 8. When you are happy with what you see use the BrightInfo management application to turn recommedations live for all visitors
