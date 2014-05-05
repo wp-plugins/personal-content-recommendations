@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-BrightInfo's content recommendations solution is up and running within minutes and is proven to increase leads and blog/newsletter signups by dozens of %.
+Content recommendations solution is up and running within minutes and is proven to increase leads and blog/newsletter signups by dozens of %.
 
 == Description ==
 
@@ -31,7 +31,8 @@ Converting anonymous visitors by leveraging textual analysis and behavioral anal
 *   Free 30 days trial
 *   Free for small businesses
 
-Languages supported:
+= Languages supported =
+
 *   The plugin supports English language sites 
 
 == Installation ==
