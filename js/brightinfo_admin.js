@@ -13,7 +13,7 @@ jQuery(function(){
 			jQuery('#bi_acquire_script input[type=submit]').attr('disabled', 'disabled');
 			jQuery('#loader').show();
 		
-			jQuery.getJSON('http://managementapptest.azurewebsites.net/registration/RegistrationWS?' + jQuery(this).serialize() + '&callback=?').done( function( res ) {
+			jQuery.getJSON('http://manage.brightinfo.com/registration/RegistrationWS?' + jQuery(this).serialize() + '&callback=?').done( function( res ) {
 				jQuery('#bi_acquire_script input[type=submit]').removeAttr('disabled');
 				jQuery('#loader').hide();
 
