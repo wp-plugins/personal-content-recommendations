@@ -120,7 +120,7 @@ class Brightinfo_Plugin extends Brightinfo_LifeCycle {
 
 	public function enqueueAdminPageStylesAndScripts() {
         if (strpos($_SERVER['REQUEST_URI'], $this->getSettingsSlug()) !== false) {
-            wp_enqueue_script('bi-admin', plugins_url('/js/brightinfo_admin.js', __FILE__));
+            wp_enqueue_script('bi-admin', plugins_url('/js/brightinfo_admin.js', __FILE__), array(), '1');
 //            wp_enqueue_style('my-style', plugins_url('/css/my-style.css', __FILE__));
         }
 	}
