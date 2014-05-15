@@ -2,7 +2,7 @@
 /*
    Plugin Name: BrightInfo
    Plugin URI: http://wordpress.org/extend/plugins/brightinfo/
-   Version: 1.0
+   Version: 1.1
    Author: <a href="http://www.brightinfo.com">BrightInfo</a>
    Description: 
    Text Domain: brightinfo
