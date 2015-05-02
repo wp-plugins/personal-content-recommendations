@@ -3,8 +3,8 @@ Contributors: BrightInfo
 Donate link: http://brightinfo.com/
 Tags: content, conversion, content recommendation, BrightInfo, engagement, increase engagement, promote, recommendations, related, Related Content, related posts, increase conversion, conversions, leads
 Requires at least: 3.5
-Tested up to: 4.1
-Stable tag: 1.2
+Tested up to: 4.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -52,6 +52,9 @@ Converting anonymous visitors by leveraging textual analysis and behavioral anal
 2. Different plugin layouts.
 
 == Changelog ==
+
+= 1.3 =
+* Support for WP 4.2
 
 = 1.2 =
 * Support for WP 4.1
